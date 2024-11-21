@@ -1,3 +1,5 @@
+// Sum of numbers divisible by 3 or 5 under 1000
+
 package main
 
 import "fmt"
