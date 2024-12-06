@@ -1,4 +1,7 @@
-// Sum of even Fibonacci under 4 million
+/*
+Problem 2:
+Sum of even Fibonacci under 4 million
+*/
 
 package main
 
@@ -22,3 +25,5 @@ func main() {
 	}
 	fmt.Println(sum)
 }
+
+// Answer: 4613732

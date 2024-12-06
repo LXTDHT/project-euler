@@ -1,4 +1,7 @@
-// Sum of numbers divisible by 3 or 5 under 1000
+/*
+Problem 1:
+Sum of numbers divisible by 3 or 5 under 1000
+*/
 
 package main
 
@@ -13,3 +16,5 @@ func main() {
 	}
 	fmt.Println(sum)
 }
+
+// Answer: 233168
